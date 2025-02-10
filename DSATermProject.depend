@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1734542935 source:d:\coding\dsa\dsatermproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Graph.h"
+	"Trie.h"
+	<bits/stdc++.h>
+
+1734270456 d:\coding\dsa\dsatermproject\graph.h
+	<bits/stdc++.h>
+	"Trie.h"
+
+1733419710 source:d:\coding\dsa\dsatermproject\list.cpp
+	"List.h"
+	<iostream>
+
+1733419811 d:\coding\dsa\dsatermproject\list.h
+
+1734272155 source:d:\coding\dsa\dsatermproject\graph.cpp
+	"Graph.h"
+
+1734097485 source:d:\coding\dsa\dsatermproject\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1733419618 d:\coding\dsa\dsatermproject\stack.h
+	"List.h"
+
+1734079950 d:\coding\dsa\dsatermproject\graph.cpp
+	"Graph.h"
+
+1733419710 d:\coding\dsa\dsatermproject\list.cpp
+	"List.h"
+	<iostream>
+
+1733420148 d:\coding\dsa\dsatermproject\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1734085275 d:\coding\dsa\dsatermproject\trie.cpp
+	"Trie.h"
+
+1734272863 d:\coding\dsa\dsatermproject\trie.h
+	<unordered_map>
+	<string>
+	<bits/stdc++.h>
+
+1734273093 source:d:\coding\dsa\dsatermproject\trie.cpp
+	"Trie.h"
+
+1734085275 source:d:\coding stuff\dsa\dsatermproject\dsatermproject\trie.cpp
+	"Trie.h"
+
+1734248089 d:\coding stuff\dsa\dsatermproject\dsatermproject\trie.h
+	<unordered_map>
+	<string>
+	<bits/stdc++.h>
+
+1734247581 source:d:\coding stuff\dsa\dsatermproject\dsatermproject\graph.cpp
+	"Graph.h"
+
+1734167563 d:\coding stuff\dsa\dsatermproject\dsatermproject\graph.h
+	<bits/stdc++.h>
+
+1734248389 source:d:\coding stuff\dsa\dsatermproject\dsatermproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Graph.h"
+	"Trie.h"
+
+1734273093 source:c:\users\gaming tech\documents\dsatermproject\dsatermproject\trie.cpp
+	"Trie.h"
+
+1734272863 c:\users\gaming tech\documents\dsatermproject\dsatermproject\trie.h
+	<unordered_map>
+	<string>
+	<bits/stdc++.h>
+
+1734272155 source:c:\users\gaming tech\documents\dsatermproject\dsatermproject\graph.cpp
+	"Graph.h"
+
+1734270456 c:\users\gaming tech\documents\dsatermproject\dsatermproject\graph.h
+	<bits/stdc++.h>
+	"Trie.h"
+
+1734272103 source:c:\users\gaming tech\documents\dsatermproject\dsatermproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Graph.h"
+	"Trie.h"
+
